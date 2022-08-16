@@ -1,2 +1,2 @@
 # Sudoku
-Sudoku in C, C++
+Sudoku in C, C++ for DOS systems.
